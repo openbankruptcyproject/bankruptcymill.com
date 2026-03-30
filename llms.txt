@@ -21,4 +21,4 @@ This site presents national statistics from the FJC Integrated Database and publ
 Part of the Open Bankruptcy Project. Free, open-source bankruptcy data journalism. Not legal advice.
 
 ## Contact
-- Ko-fi: https://ko-fi.com/ilikemath9999
+- Ko-fi: https://ko-fi.com/openbankruptcyproject

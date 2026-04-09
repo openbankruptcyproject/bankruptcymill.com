@@ -1,24 +1,23 @@
-# bankruptcymill.com
-
-> The Bankruptcy Mill Problem: By the Numbers. Data-driven investigation into high-volume bankruptcy firms and their measurable impact on client outcomes.
-
-This site presents national statistics from the FJC Integrated Database and public PACER records covering 4.9 million federal bankruptcy cases across all 94 districts. It examines the economic model behind bankruptcy mills, the data showing their impact, the regulatory gaps that allow them to persist, and the real cost of failed cases.
-
-## Pages
-- / -- The Bankruptcy Mill Problem: By the Numbers (overview with national statistics)
-- /the-exposed-model.html -- How Bankruptcy Mills Make Money (economic model and perverse incentives)
-- /by-the-numbers.html -- Bankruptcy Mill Statistics (dismissal rates, caseload vs outcome, fee patterns)
-- /enforcement-gap.html -- Why Nobody Stops Them (regulatory failure and enforcement gaps)
-- /cost-of-failure.html -- What a Failed Bankruptcy Case Really Costs (human and financial toll)
-
-## Related Sites
-- https://bankruptcymill.org -- Consumer education: warning signs, what to do, find a lawyer
-- https://1328f.com -- Free bankruptcy discharge screener
-- https://1328f.org -- Research platform and empirical data
-- https://github.com/ilikemath9999/bankruptcy-discharge-screener -- Open source code
+# What Is a Bankruptcy Mill? -- Warning Signs [2026]
+> What is a bankruptcy mill? Learn the warning signs, fee red flags, and how to protect yourself from high-volume bankruptcy firms. 2026 d...
 
 ## About
-Part of the Open Bankruptcy Project. Free, open-source bankruptcy data journalism. Not legal advice.
+bankruptcymill.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- Bankruptcy Mill Statistics: https://bankruptcymill.com/by-the-numbers.html
+- What a Failed Bankruptcy Case Really Costs -- Bankruptcy Mill: https://bankruptcymill.com/cost-of-failure.html
+- Why Nobody Stops Bankruptcy Mills: https://bankruptcymill.com/enforcement-gap.html
+- What Is a Bankruptcy Mill? -- Warning Signs: https://bankruptcymill.com/
+- Protect Yourself from a Bankruptcy Mill: https://bankruptcymill.com/protect-yourself.html
+- Bankruptcy Attorney Red Flags: Detailed Checklist -- Bankruptcy Mill: https://bankruptcymill.com/red-flags.html
+- How Bankruptcy Mills Make Money: https://bankruptcymill.com/the-exposed-model.html
+- Hired a Bankruptcy Mill? What to Do Now: https://bankruptcymill.com/what-to-do.html
 
 ## Contact
-- Ko-fi: https://ko-fi.com/openbankruptcyproject
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).

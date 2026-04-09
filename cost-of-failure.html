@@ -132,6 +132,8 @@ a:focus-visible,button:focus-visible{outline:2px solid #58a6ff;outline-offset:2p
   .compare-section{grid-template-columns:1fr}
   .impact-grid{grid-template-columns:1fr}
 }
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://1328f.org", "description": "Free, open-source bankruptcy court transparency tools and research.", "foundingDate": "2026-03-27", "areaServed": "US", "nonprofitStatus": "Nonprofit501c3", "sameAs": ["https://1328f.com", "https://1328f.org"]}
@@ -229,6 +231,8 @@ a:focus-visible,button:focus-visible{outline:2px solid #58a6ff;outline-offset:2p
 </div>
 
 <main id="main-content">
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://bankruptcymill.com">Bankruptcy Mills</a><span class="separator">&rsaquo;</span><span>What a Failed Bankruptcy Case Really Costs</span></nav>
+
 <div class="content">
 
 <h2>The direct financial cost</h2>
@@ -502,5 +506,6 @@ a:focus-visible,button:focus-visible{outline:2px solid #58a6ff;outline-offset:2p
 <script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString();var b=document.getElementById("recap-bar");if(b&&d.count)b.style.width=Math.min(100,d.count/37900000*100).toFixed(4)+"%";var dn=document.getElementById("recap-donated");if(dn&&d.donated!==undefined)dn.textContent="$"+d.donated.toLocaleString()}).catch(function(){})</script>
 
 <script src="/btn-engage.js" defer></script>
+<script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
 </body>
 </html>

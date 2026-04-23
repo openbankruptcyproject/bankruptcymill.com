@@ -254,7 +254,7 @@ GitHub Sponsors
 GitHub
 
 Independent bankruptcy data journalism. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -560,7 +560,7 @@ GitHub Sponsors
 GitHub
 
 Independent bankruptcy data journalism. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -814,7 +814,7 @@ GitHub Sponsors
 GitHub
 
 Independent bankruptcy data journalism. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -989,7 +989,7 @@ We buy federal court records and donate them to RECAP so no one has to pay. Brow
 
 $16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
 
 ♥ Sponsor
 
@@ -1187,7 +1187,7 @@ serialfiler.org
 GitHub
 
 Independent bankruptcy data journalism. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -1304,7 +1304,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This investigation is independent. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+This investigation is independent. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ♥ Sponsor
 
@@ -1580,7 +1580,7 @@ Part of the Open Bankruptcy Project
 
 bankruptcymill.orgbankruptcymalpractice.orgsection329.orgdismissalrate.org1328f.com
 
-Not legal advice. A project of the Open Bankruptcy Project, 501(c)(3) (determination pending).
+Not legal advice. A project of the Open Bankruptcy Project, 501(c)(3).
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -1868,7 +1868,7 @@ GitHub Sponsors
 GitHub
 
 Independent bankruptcy data journalism. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -2162,7 +2162,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -2247,7 +2247,7 @@ openbankruptcyproject.org
 ♥ Sponsor
 
 Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms
 
@@ -2340,7 +2340,7 @@ openbankruptcyproject.org
 ♥ Sponsor
 
 Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms
 
@@ -2408,6 +2408,6 @@ openbankruptcyproject.org
 ♥ Sponsor
 
 Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms

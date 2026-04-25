@@ -10,13 +10,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>Protect Yourself from a Bankruptcy Mill</title>
-<meta name="description" content="How to protect yourself from a bankruptcy mill. Red flags to watch for, what to verify before hiring, and how to check your attorney's t...">
-<link rel="canonical" href="https://bankruptcymill.com/protect-yourself.html">
-<meta property="og:title" content="Protect Yourself from a Bankruptcy Mill">
-<meta property="og:description" content="How to protect yourself from a bankruptcy mill. Red flags to watch for, what to verify before hiring, and how to check your attorney's t...">
+<title>Bankruptcy Attorney Red Flags: Detailed Checklist - Bankruptcy Mill</title>
+<meta name="description" content="Detailed checklist of red flags to watch for during a bankruptcy attorney consultation and after hiring.">
+<link rel="canonical" href="https://bankruptcymill.com/red-flags.html">
+<meta property="og:title" content="Bankruptcy Attorney Red Flags: Detailed Checklist - Bankruptcy Mill">
+<meta property="og:description" content="Detailed checklist of red flags to watch for during a bankruptcy attorney consultation and after hiring.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://bankruptcymill.com/protect-yourself.html">
+<meta property="og:url" content="https://bankruptcymill.com/red-flags.html">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta name="theme-color" content="#0d1117">
 <style>
@@ -26,9 +26,9 @@
 .nav-links{display:flex;gap:16px;align-items:center;flex-wrap:wrap}.nav-links a{color:#8b949e;font-size:14px}.nav-links a:hover{color:#f0f6fc;text-decoration:none}.nav-links a.active{color:#f0f6fc;font-weight:600}
 .hamburger{display:none;background:none;border:1px solid #21262d;color:#e5e5e5;font-size:1.2rem;padding:6px 12px;border-radius:4px;cursor:pointer}
 main{max-width:800px;margin:0 auto;padding:48px 24px}h1{font-size:28px;color:#f0f6fc;margin-bottom:16px}h2{font-size:22px;color:#f0f6fc;margin:2rem 0 0.75rem;padding-bottom:10px;border-bottom:1px solid #21262d}p{margin-bottom:1rem;color:#c9d1d9;font-size:16px;line-height:1.8}.subtitle{color:#8b949e;font-size:17px;margin-bottom:2rem}
-ul,ol{margin:0 0 1rem 1.5rem;color:#c9d1d9}li{margin-bottom:0.5rem}
-.card{background:#161b22;border:1px solid #21262d;border-radius:12px;padding:24px;margin-bottom:16px}.card h3{margin-top:0;color:#3fb950;font-size:16px;margin-bottom:8px}
-.warning{background:#161b22;border:1px solid #f85149;border-radius:12px;padding:24px;margin-bottom:16px}.warning h3{margin-top:0;color:#f85149;font-size:16px;margin-bottom:8px}
+ul{margin:0 0 1rem 1.5rem;color:#c9d1d9}li{margin-bottom:0.5rem}
+.flag{background:#161b22;border-left:3px solid #f85149;border-radius:0 8px 8px 0;padding:16px 20px;margin-bottom:12px}.flag strong{color:#f85149}.flag p{margin:0;font-size:14px;color:#c9d1d9}
+.ok{background:#161b22;border-left:3px solid #3fb950;border-radius:0 8px 8px 0;padding:16px 20px;margin-bottom:12px}.ok strong{color:#3fb950}.ok p{margin:0;font-size:14px;color:#c9d1d9}
 .disclaimer{background:#161b22;border:1px solid #21262d;border-radius:8px;padding:1rem 1.25rem;margin-top:2.5rem;font-size:0.8rem;color:#8b949e}
 .network-footer{background:#010409;border-top:1px solid #21262d;padding:2rem 24px;text-align:center;margin-top:48px}.network-footer p{color:#8b949e;font-size:0.85rem;margin-bottom:0.5rem}.network-footer .links{display:flex;justify-content:center;flex-wrap:wrap;gap:1rem;margin-top:0.75rem}.network-footer .links a{color:#8b949e;font-size:0.85rem}.network-footer .links a:hover{color:#58a6ff}
 @media(max-width:600px){h1{font-size:24px}main{padding:28px 16px}.hamburger{display:block}.nav-links{display:none;width:100%;flex-direction:column;gap:0;padding-top:12px}.nav-links.open{display:flex}.nav-links a{display:block;padding:10px 0;border-top:1px solid #21262d;min-height:44px;line-height:1.6}}
@@ -37,8 +37,7 @@ ul,ol{margin:0 0 1rem 1.5rem;color:#c9d1d9}li{margin-bottom:0.5rem}
 </style>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-{"@type":"Question","name":"How do I protect myself from hiring a bankruptcy mill?","acceptedAnswer":{"@type":"Answer","text":"Research before you hire. Check the attorney's bar status, look for disciplinary history, read online reviews from verified clients, ask about their completion rate during the consultation, consult with at least two attorneys before deciding, and be wary of high-pressure sales tactics or no-money-down advertising. The 30 minutes you spend researching could save you years of wasted plan payments."}},
-{"@type":"Question","name":"Can I check a bankruptcy attorney's track record?","acceptedAnswer":{"@type":"Answer","text":"Yes. PACER (the federal court records system) allows you to search for cases filed by a specific attorney and see outcomes. Your state bar association website shows disciplinary history. Online review sites provide client experiences. You can also ask the attorney directly about their completion rate - a good attorney will know the answer."}}
+{"@type":"Question","name":"What are red flags when hiring a bankruptcy attorney?","acceptedAnswer":{"@type":"Answer","text":"Red flags during the consultation include: meeting lasts less than 15 minutes, the attorney does not ask detailed questions about your finances, you feel pressured to sign immediately, the attorney does not discuss alternatives to bankruptcy, the fee structure is unclear, you will only interact with non-attorney staff. Red flags after hiring include: errors in your petition, inability to reach your attorney, you first see your Chapter 13 plan at the 341 meeting, and your attorney cannot explain your case strategy."}}
 ]}
 </script>
 <script type="application/ld+json">
@@ -50,8 +49,8 @@ ul,ol{margin:0 0 1rem 1.5rem;color:#c9d1d9}li{margin-bottom:0.5rem}
   "@graph": [
     {
       "@type": "Article",
-      "headline": "How to Protect Yourself from a Bankruptcy Mill",
-      "description": "How to protect yourself from a bankruptcy mill. Red flags to watch for, what to verify before hiring, and how to check your attorney",
+      "headline": "Bankruptcy Attorney Red Flags",
+      "description": "Detailed checklist of red flags to watch for during a bankruptcy attorney consultation and after hiring. Warning signs during the consultation and after your ca",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -63,7 +62,7 @@ ul,ol{margin:0 0 1rem 1.5rem;color:#c9d1d9}li{margin-bottom:0.5rem}
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://bankruptcymill.com/protect-yourself.html"
+      "mainEntityOfPage": "https://bankruptcymill.com/red-flags.html"
     },
     {
       "@type": "BreadcrumbList",
@@ -83,15 +82,15 @@ ul,ol{margin:0 0 1rem 1.5rem;color:#c9d1d9}li{margin-bottom:0.5rem}
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "How to Protect Yourself from a Bankruptcy Mill",
-          "item": "https://bankruptcymill.com/protect-yourself.html"
+          "name": "Bankruptcy Attorney Red Flags",
+          "item": "https://bankruptcymill.com/red-flags.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "How to Protect Yourself from a Bankruptcy Mill",
-      "url": "https://bankruptcymill.com/protect-yourself.html",
+      "name": "Bankruptcy Attorney Red Flags",
+      "url": "https://bankruptcymill.com/red-flags.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -106,34 +105,13 @@ ul,ol{margin:0 0 1rem 1.5rem;color:#c9d1d9}li{margin-bottom:0.5rem}
 }
 </script>
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Protect Yourself from a Bankruptcy Mill">
-<meta name="twitter:description" content="How to protect yourself from a bankruptcy mill. Red flags to watch for, what to verify before hiring, and how to check your attorney's t...">
+<meta name="twitter:title" content="Bankruptcy Attorney Red Flags: Detailed Checklist - Bankruptcy Mill">
+<meta name="twitter:description" content="Detailed checklist of red flags to watch for during a bankruptcy attorney consultation and after hiring.">
 <meta property="og:image" content="https://bankruptcymill.com/og-image.svg">
 <meta name="twitter:image" content="https://bankruptcymill.com/og-image.svg">
 
-<link rel="alternate" hreflang="en" href="https://bankruptcymill.com/protect-yourself.html">
-<link rel="alternate" hreflang="es" href="https://bankruptcymill.com/protect-yourself-es.html">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link rel="alternate" hreflang="en" href="https://bankruptcymill.com/red-flags.html">
+<link rel="alternate" hreflang="es" href="https://bankruptcymill.com/red-flags-es.html">
 </head>
 <body>
 <a href="#main-content" class="skip-link">Skip to main content</a>
@@ -144,8 +122,8 @@ ul,ol{margin:0 0 1rem 1.5rem;color:#c9d1d9}li{margin-bottom:0.5rem}
     <a href="/">The Data</a>
     <a href="/the-exposed-model.html">The Model</a>
     <a href="/by-the-numbers.html">Statistics</a>
-    <a href="/protect-yourself.html" class="active">Protect Yourself</a>
-    <a href="/red-flags.html">Red Flags</a>
+    <a href="/protect-yourself.html">Protect Yourself</a>
+    <a href="/red-flags.html" class="active">Red Flags</a>
     <a href="/what-to-do.html">What to Do</a>
     <a href="/enforcement-gap.html">Enforcement Gap</a>
     <a href="/cost-of-failure.html">Cost of Failure</a>
@@ -153,69 +131,48 @@ ul,ol{margin:0 0 1rem 1.5rem;color:#c9d1d9}li{margin-bottom:0.5rem}
 </nav>
 
 <main id="main-content">
-<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://bankruptcymill.com">Bankruptcy Mills</a><span class="separator">&rsaquo;</span><span>How to Protect Yourself from a Bankruptcy Mill</span></nav>
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://bankruptcymill.com">Bankruptcy Mills</a><span class="separator">&rsaquo;</span><span>Bankruptcy Attorney Red Flags</span></nav>
 
-  <h1>How to Protect Yourself from a Bankruptcy Mill</h1>
-  <p class="subtitle">What to verify before hiring, and how to check outcomes using public data</p>
-
-  <p>The difference between a good bankruptcy attorney and a mill can mean the difference between a <a href="https://bankruptcyfreshstart.org" title="Fresh Start After Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">fresh start</a> and years of wasted payments. The good news: you can protect yourself with research that takes less than an hour.</p>
-
-  <h2>Before the Consultation</h2>
-
-  <div class="card">
-    <h3>1. Check bar status and disciplinary history</h3>
-    <p>Every attorney is licensed by a state bar association. Search your state bar's website for the attorney's name. You can verify they are licensed, see how long they have practiced, and check for any disciplinary actions (reprimands, suspensions, or disbarment).</p>
-  </div>
-
-  <div class="card">
-    <h3>2. Read reviews carefully</h3>
-    <p>Look for patterns in client reviews, not just overall ratings. Warning signs include: multiple reviews mentioning difficulty reaching the attorney, complaints about non-attorney staff handling everything, reports of cases being dismissed, and reviews describing a rushed or impersonal experience.</p>
-  </div>
-
-  <div class="card">
-    <h3>3. Consult at least two attorneys</h3>
-    <p>Most bankruptcy attorneys offer free or low-cost initial consultations. Meeting with two or three different attorneys gives you a basis for comparison. If one consultation feels rushed and another feels thorough, that tells you something important.</p>
-  </div>
+  <h1>Bankruptcy Attorney Red Flags</h1>
+  <p class="subtitle">A detailed checklist of warning signs - during the consultation and after hiring</p>
 
   <h2>During the Consultation</h2>
 
-  <div class="card">
-    <h3>4. Ask about their completion rate</h3>
-    <p>A competent bankruptcy attorney knows their <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> completion rate. Ask directly: "What percentage of your <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> clients complete their plan and receive a <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>?" A good answer is specific and above the district average. A bad answer is "I don't track that."</p>
-  </div>
+  <div class="flag"><strong>The meeting lasts less than 15 minutes.</strong><p>A thorough initial evaluation requires at least 30 minutes. If the attorney barely glances at your finances before recommending you file, they may be running a volume practice that does not invest in individual cases.</p></div>
 
-  <div class="card">
-    <h3>5. Ask who will handle your case</h3>
-    <p>Will you work with the attorney directly, or primarily with staff? Delegation is normal, but you should have meaningful access to the lawyer responsible for your case.</p>
-  </div>
+  <div class="flag"><strong>The attorney does not ask detailed questions about your situation.</strong><p>A good attorney asks about your income, expenses, assets, debts, recent transactions, employment history, and future plans. If the questions are superficial, the analysis will be too.</p></div>
 
-  <div class="card">
-    <h3>6. Notice the consultation itself</h3>
-    <p>A thorough consultation takes at least 30 minutes and involves detailed questions about your specific financial situation. If the meeting feels like a sales pitch rather than a legal evaluation, move on.</p>
-  </div>
+  <div class="flag"><strong>You feel pressured to sign a retainer immediately.</strong><p>Bankruptcy is a major decision. A responsible attorney encourages you to think about it, consult with family, and compare options. High-pressure sales tactics belong in used car lots, not law offices.</p></div>
 
-  <h2>After Hiring</h2>
+  <div class="flag"><strong>The attorney does not discuss alternatives to bankruptcy.</strong><p>Bankruptcy is not always the best option. Debt negotiation, <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a>, simply waiting out the statute of limitations, or even doing nothing may be better in some cases. If the attorney only offers one path, they may be focused on filing volume rather than your best outcome.</p></div>
 
-  <div class="card">
-    <h3>7. Review your petition before filing</h3>
-    <p>You should receive a copy of your bankruptcy petition and schedules to review before they are filed. Read every page. Verify that all assets, debts, income, and expenses are accurate. If you spot errors, insist they be corrected.</p>
-  </div>
+  <div class="flag"><strong>The fee structure is unclear or confusing.</strong><p>You should know exactly what you are paying for, what is included, and what costs extra. Vague fee explanations often lead to surprise charges later.</p></div>
 
-  <div class="card">
-    <h3>8. Understand your Chapter 13 plan</h3>
-    <p>If you are filing Chapter 13, you should understand your plan before it is filed: how much you will pay each month, for how many months, and which debts are being addressed. If your attorney cannot explain the plan in plain language, that is a problem.</p>
-  </div>
+  <div class="flag"><strong>You will never meet the attorney handling your case.</strong><p>If the consultation is with a salesperson or intake staff and the attorney will be a different person you never meet, the firm may be processing cases in bulk rather than providing individual representation.</p></div>
 
-  <div class="card">
-    <h3>9. Keep records</h3>
-    <p>Document all communications with your attorney. Keep copies of everything you sign. Note dates and times of phone calls. If problems arise later, this documentation is essential.</p>
-  </div>
+  <h2>After You Hire</h2>
 
-  <h2>If Something Goes Wrong</h2>
+  <div class="flag"><strong>Errors in your petition or schedules.</strong><p>Wrong names, incorrect addresses, inaccurate asset values, missing debts - these are signs of careless, template-based preparation. Errors in bankruptcy filings can have serious consequences, including denied <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> or trustee objections.</p></div>
 
-  <p>If you are already in a case and suspect problems, you have options. See our detailed <a href="/what-to-do.html">guide on what to do if you hired a mill</a>. Options include firing your attorney, requesting fee review, filing a bar complaint, and in some cases, suing for malpractice.</p>
+  <div class="flag"><strong>You cannot reach your attorney.</strong><p>Calls go unreturned for days. You only speak with staff. Your attorney is always "unavailable." This pattern suggests the firm has more cases than it can handle.</p></div>
 
-  <p>For a detailed checklist of warning signs, see <a href="/red-flags.html">bankruptcy attorney red flags</a>.</p>
+  <div class="flag"><strong>You first see your <a href="https://chapter13plan.org/" title="Chapter 13 plan">Chapter 13 plan</a> at the <a href="https://341meeting.org/" title="341 meeting">341 meeting</a>.</strong><p>You should review and approve your plan before it is filed. If you are seeing it for the first time at the <a href="https://341meeting.org" title="341 Meeting of Creditors - Open Bankruptcy Project" target="_blank" rel="noopener">meeting of creditors</a>, your attorney did not involve you in the most important document in your case.</p></div>
+
+  <div class="flag"><strong>Your attorney cannot explain your case strategy.</strong><p>If asked "what is the plan for my case?", your attorney should be able to give a clear, specific answer. Vague responses suggest they have not thought about your case individually.</p></div>
+
+  <div class="flag"><strong>The firm is handling your case identically to everyone else's.</strong><p>Bankruptcy cases are not all the same. Your <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a>, your plan payments, your treatment of secured debts - these should be tailored to your specific situation, not copy-pasted from a template.</p></div>
+
+  <h2>What Good Representation Looks Like</h2>
+
+  <div class="ok"><strong>The consultation is thorough and unhurried.</strong><p>The attorney asks detailed questions, listens to your answers, and gives you specific advice about your situation - not generic information about bankruptcy.</p></div>
+
+  <div class="ok"><strong>The attorney explains multiple options.</strong><p><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>, <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, alternatives to bankruptcy, timing considerations - a good attorney helps you make an informed decision, not a quick one.</p></div>
+
+  <div class="ok"><strong>You review everything before filing.</strong><p>You see your petition, schedules, and plan before they are submitted. Errors are caught and corrected.</p></div>
+
+  <div class="ok"><strong>Communication is responsive and clear.</strong><p>Your calls are returned within 24-48 hours. Your attorney explains what is happening in your case in plain language.</p></div>
+
+  <p>For more guidance, see <a href="/protect-yourself.html">how to protect yourself</a> and our consumer guide at <a href="https://bankruptcymill.org/" rel="noopener">bankruptcymill.org</a>.</p>
 
   <div class="disclaimer">
     <strong>Not legal advice.</strong> This site provides general educational information. It does not identify or name any specific attorney or firm. Consult a qualified attorney for your specific situation.
@@ -232,6 +189,10 @@ ul,ol{margin:0 0 1rem 1.5rem;color:#c9d1d9}li{margin-bottom:0.5rem}
 
 </main>
 
+<div class="content-section" style="border-left:3px solid #f85149">
+  <p>If you believe your attorney's conduct harmed your bankruptcy case, you may have legal options. Learn about your rights at <a href="https://bankruptcymalpractice.org">bankruptcymalpractice.org</a> and <a href="https://section329.org">section329.org</a> (<a href="https://section329.org" title="Section 329 Fee Disgorgement - Open Bankruptcy Project" target="_blank" rel="noopener">fee disgorgement</a>).</p>
+</div>
+
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
   <p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.5rem">Stay updated on new datasets and research findings</p>
   <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:1rem">No spam. No marketing. Just data.</p>
@@ -242,7 +203,7 @@ ul,ol{margin:0 0 1rem 1.5rem;color:#c9d1d9}li{margin-bottom:0.5rem}
   </form>
 </div>
 <div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:2rem auto 1rem">
-<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This investigation is independent. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This investigation is independent. Donations support the Open Bankruptcy Project.</p>
 <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">&#9829; Sponsor</a>
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
@@ -323,7 +284,7 @@ ul,ol{margin:0 0 1rem 1.5rem;color:#c9d1d9}li{margin-bottom:0.5rem}
 
   <p><strong>Part of the Open Bankruptcy Project</strong></p>
   <div class="links"><a href="https://bankruptcymill.org?utm_source=bankruptcymill.com&utm_medium=referral&utm_campaign=btn-network">bankruptcymill.org</a><a href="https://bankruptcymalpractice.org?utm_source=bankruptcymill.com&utm_medium=referral&utm_campaign=btn-network">bankruptcymalpractice.org</a><a href="https://section329.org?utm_source=bankruptcymill.com&utm_medium=referral&utm_campaign=btn-network">section329.org</a><a href="https://dismissalrate.org?utm_source=bankruptcymill.com&utm_medium=referral&utm_campaign=btn-network">dismissalrate.org</a><a href="https://1328f.com?utm_source=bankruptcymill.com&utm_medium=referral&utm_campaign=btn-network">1328f.com</a></div>
-  <p style="margin-top:1rem;font-size:0.75rem;color:#484f58">Independent bankruptcy data journalism. Not legal advice. A project of the Open Bankruptcy Project.</p>
+  <p style="margin-top:1rem;font-size:0.75rem;color:#484f58">Not legal advice. A project of the Open Bankruptcy Project, 501(c)(3).</p>
   <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=bankruptcymill.com&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=bankruptcymill.com&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=bankruptcymill.com&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 <div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
 <p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" target="_blank" rel="noopener" style="color:#58a6ff">Suggestion 26-BK-3</a></p>

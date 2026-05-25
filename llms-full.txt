@@ -28,11 +28,11 @@ The Data
 
 Bankruptcy Mill Statistics
 
-National data from 4.9 million federal cases across 94 districts. The numbers tell a story that individual anecdotes cannot.
+National data from 8 million federal cases across 94 districts. The numbers tell a story that individual anecdotes cannot.
 
 Home›Bankruptcy Mills›Bankruptcy Mill Statistics
 
-4.9M
+8M
 
 Cases in the FJC Integrated Database (2008-2024)
 
@@ -160,7 +160,7 @@ Primary data: FJC Integrated Database, which records case-level data for all fed
 
 Supplementary data: PACER (Public Access to Court Electronic Records) dockets for attorney-level analysis, fee applications, and docket entry detail.
 
-Coverage: 4.9 million cases across all 94 federal judicial districts, filed 2008-2024.
+Coverage: 8 million cases across all 94 federal judicial districts, filed 2008-2024.
 
 Tools: Analysis performed using open-source Python tools. Code available on GitHub. Discharge eligibility screening available at 1328f.com.
 
@@ -872,7 +872,7 @@ What Is a Bankruptcy Mill?
 
 National federal court data reveals a system where high-volume firms produce measurably worse outcomes for vulnerable people - and where nobody is tracking the results.
 
-4.9M
+8M
 
 Federal bankruptcy cases in the dataset
 
@@ -900,7 +900,7 @@ Source: FJC Integrated Database, public PACER records. Analysis covers cases fil
 
 What we found
 
-By analyzing 4.9 million federal bankruptcy cases across all 94 judicial districts, a clear pattern emerges. In Chapter 13 bankruptcy - where individuals propose multi-year repayment plans - the majority of cases never reach a successful discharge. The national dismissal rate sits around 26%, but that only counts cases formally dismissed by the court. Factor in voluntary dismissals, conversions, and cases closed without discharge, and the true failure rate climbs to 60-67%.
+By analyzing 8 million federal bankruptcy cases across all 94 judicial districts, a clear pattern emerges. In Chapter 13 bankruptcy - where individuals propose multi-year repayment plans - the majority of cases never reach a successful discharge. The national dismissal rate sits around 26%, but that only counts cases formally dismissed by the court. Factor in voluntary dismissals, conversions, and cases closed without discharge, and the true failure rate climbs to 60-67%.
 
 That national average conceals enormous variation. Within a single district, the gap between the best-performing and worst-performing attorneys can span 70 percentage points. Some attorneys consistently achieve discharge rates above 80%. Others, handling comparable caseloads in the same jurisdiction, see fewer than 15% of their clients reach discharge.
 
@@ -952,7 +952,7 @@ Frequently asked questions
 
 How many bankruptcy cases are filed each year in the United States?
 
-Approximately 400,000 to 500,000 bankruptcy cases are filed annually in federal courts across the United States, distributed across 94 judicial districts. The FJC Integrated Database tracks over 4.9 million cases filed since 2008.
+Approximately 400,000 to 500,000 bankruptcy cases are filed annually in federal courts across the United States, distributed across 94 judicial districts. The FJC Integrated Database tracks over 8 million cases filed since 2008.
 
 What percentage of Chapter 13 bankruptcy cases are dismissed?
 
@@ -964,7 +964,7 @@ A bankruptcy mill is a high-volume law firm that processes large numbers of bank
 
 Where does this data come from?
 
-The data comes from two primary federal sources: the FJC Integrated Database (maintained by the Federal Judicial Center), which tracks case-level outcomes for all federal bankruptcy filings, and PACER (Public Access to Court Electronic Records), which provides docket-level detail. Together these sources cover 4.9 million cases across all 94 federal judicial districts.
+The data comes from two primary federal sources: the FJC Integrated Database (maintained by the Federal Judicial Center), which tracks case-level outcomes for all federal bankruptcy filings, and PACER (Public Access to Court Electronic Records), which provides docket-level detail. Together these sources cover 8 million cases across all 94 federal judicial districts.
 
 Related Topics
 
